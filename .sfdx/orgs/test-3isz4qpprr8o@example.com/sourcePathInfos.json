@@ -1,0 +1,368 @@
+[
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app",
+        {
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524726227237,
+            "changeTime": 1524726227237,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524726227238,
+            "changeTime": 1524726227238,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524727814932,
+            "changeTime": 1524727814932,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2"
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524726332064,
+            "changeTime": 1524726332064,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo",
+        {
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524726332078,
+            "changeTime": 1524726332078,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1524726332077,
+            "changeTime": 1524726332077,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "size": 181,
+            "modifiedTime": 1524726435792,
+            "changeTime": 1524726435792,
+            "contentHash": "ea8939c085c93e5fa25d079830915f934d5360e7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1524726332066,
+            "changeTime": 1524726332066,
+            "contentHash": "e1e968b3b1241b0b99f46111ddfbaf9b8727535e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1524726332073,
+            "changeTime": 1524726332073,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1524726332078,
+            "changeTime": 1524726332078,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1524726332076,
+            "changeTime": 1524726332076,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1524726332067,
+            "changeTime": 1524726332067,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1524726332072,
+            "changeTime": 1524726332072,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1524726332074,
+            "changeTime": 1524726332074,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo",
+        {
+            "sourcePath": "C:\\Users\\jinsoo\\Demo",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1524726544758,
+            "changeTime": 1524726544758,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\flexipages\\Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 590,
+            "modifiedTime": 1524727814923,
+            "changeTime": 1524727814923,
+            "contentHash": "b41534a05575c31fc03ea71f246aad89e44297c4"
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\tabs\\Demo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 305,
+            "modifiedTime": 1524727814927,
+            "changeTime": 1524727814927,
+            "contentHash": "b4731d9bc40775d71aff9ca64ccb0035a2038780"
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 905,
+            "modifiedTime": 1524727814929,
+            "changeTime": 1524727814929,
+            "contentHash": "70ac232fc6ec55f556b63eced2a820c2ba3194df"
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4961,
+            "modifiedTime": 1524727814934,
+            "changeTime": 1524727814934,
+            "contentHash": "517c20ce83b76ace1fe48c6c1a9f3b2dee1c0976"
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4623,
+            "modifiedTime": 1524727814939,
+            "changeTime": 1524727814939,
+            "contentHash": "1d8580a3be5e5c63fda634ac546ec78a5c7fdafd"
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4623,
+            "modifiedTime": 1524727814943,
+            "changeTime": 1524727814943,
+            "contentHash": "1d8580a3be5e5c63fda634ac546ec78a5c7fdafd"
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17679,
+            "modifiedTime": 1524727814954,
+            "changeTime": 1524727814954,
+            "contentHash": "98dabb79dcd5dada37cd90e8b4991860403a345c"
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524727814922,
+            "changeTime": 1524727814922,
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87"
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524727814926,
+            "changeTime": 1524727814926,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6"
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524727814929,
+            "changeTime": 1524727814929,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065"
+        }
+    ],
+    [
+        "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jinsoo\\Demo\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1524727814953,
+            "changeTime": 1524727814953,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
